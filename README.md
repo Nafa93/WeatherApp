@@ -26,3 +26,7 @@ If you don't have internet connection an alert will be shown and it if you press
 * Should have unit tests to make sure we can refactor as we want without breaking anything
 
 Even though the previous items were not addressed the foundation was laid in a way that those could be easily added if we wanted to extend the app.
+
+# Demo
+
+https://user-images.githubusercontent.com/12699277/155006772-cee631b2-2a76-42d5-99c3-604b439405a1.mp4
